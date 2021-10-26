@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "go_finances_expo",
+    "slug": "go_finances_expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "go_finances_expo"
+}
